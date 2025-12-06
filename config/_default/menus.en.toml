@@ -1,0 +1,29 @@
+[[main]]
+  name = "Essays"
+  pageRef = "/categories/essays"
+  weight = 10
+
+[[main]]
+  name = "Policy"
+  pageRef = "/categories/policy"
+  weight = 20
+
+[[main]]
+  name = "Fiction"
+  pageRef = "/categories/fiction"
+  weight = 30
+
+[[main]]
+  name = "Theater"
+  pageRef = "/categories/theater"
+  weight = 40
+
+[[main]]
+  name = "Tags"
+  pageRef = "/tags"
+  weight = 50
+
+[[main]]
+  name = "About"
+  pageRef = "/about"
+  weight = 60

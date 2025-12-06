@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on Third Rail Reader</title>
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content in Categories on Third Rail Reader</description>
+    <generator>Hugo -- 0.151.0</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 06 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Essays</title>
+      <link>http://localhost:1313/categories/essays/</link>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/essays/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Policy</title>
+      <link>http://localhost:1313/categories/policy/</link>
+      <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/policy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fiction</title>
+      <link>http://localhost:1313/categories/fiction/</link>
+      <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/fiction/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Theater</title>
+      <link>http://localhost:1313/categories/theater/</link>
+      <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/theater/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Home on Third Rail Reader</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on Third Rail Reader</description>
+    <generator>Hugo -- 0.151.0</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 06 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Now 81, Terri writes because someone has to name what&amp;rsquo;s unraveling. With wit as sharp as a scalpel and the timing of a stage veteran, she exposes the absurdity, cruelty, and occasional grace lurking in our collapsing systems.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Understand this, understand me.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Third Rail Reader is an independent publication launched in July 2025 by Terri Gilbert. If you subscribe today, you&amp;rsquo;ll get full access to the website as well as email newsletters about new content when it&amp;rsquo;s available. Your subscription (even though free) makes this site possible, and encourages me to continue writing pieces for Third Rail Reader. Thank you!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Test Essay on AI Policy</title>
+      <link>http://localhost:1313/essays/test-essay/</link>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/essays/test-essay/</guid>
+      <description>&lt;p&gt;This is a test essay to see how content displays in the Congo theme.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI Regulation Frameworks</title>
+      <link>http://localhost:1313/policy/ai-regulation/</link>
+      <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/policy/ai-regulation/</guid>
+      <description>&lt;p&gt;Policy content exploring AI regulation.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Digital Ghosts</title>
+      <link>http://localhost:1313/fiction/short-story/</link>
+      <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fiction/short-story/</guid>
+      <description>&lt;p&gt;Fiction exploring the boundaries of machine awareness.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lighting Design Notes</title>
+      <link>http://localhost:1313/theater/lighting-design/</link>
+      <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theater/lighting-design/</guid>
+      <description>&lt;p&gt;Thoughts on practical lighting approaches.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

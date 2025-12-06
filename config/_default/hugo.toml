@@ -1,0 +1,22 @@
+# Basic site configuration
+baseURL = "https://thirdrailreader.com/"
+languageCode = "en"
+title = "Third Rail Reader"
+theme = "PaperMod"
+
+# Pagination
+[pagination]
+  pagerSize = 20
+
+# Enable emoji support
+enableEmoji = true
+
+# Output formats
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+# Taxonomies (tags and categories)
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  series = "series"

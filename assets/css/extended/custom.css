@@ -1,0 +1,25 @@
+:root {
+  --theme: #3d2410;
+  --entry: #4a2f1a;
+  --primary: #d4a574;
+  --secondary: #b8956a;
+  --tertiary: #4a2f1a;
+  --content: #e8d5bc;
+  --hljs-bg: #4a2f1a;
+  --code-bg: #4a2f1a;
+  --border: #5a4a3a;
+}
+
+body {
+  background: #3d2410 !important;
+  color: #e8d5bc;
+}
+
+.main, main, #main {
+  background: #3d2410 !important;
+  max-width: 100% !important;
+}
+
+html {
+  background: #3d2410 !important;
+}
