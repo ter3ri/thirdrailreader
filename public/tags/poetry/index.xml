@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Poetry on Third Rail Reader</title>
+    <link>http://localhost:1313/tags/poetry/</link>
+    <description>Recent content in Poetry on Third Rail Reader</description>
+    <generator>Hugo -- 0.151.0</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 31 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/poetry/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quantum Poetry</title>
+      <link>http://localhost:1313/essays/2025-08-31-quantum-poetry/</link>
+      <pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/essays/2025-08-31-quantum-poetry/</guid>
+      <description>&lt;p&gt;Quantum is marvelous, it covers it allFrom laser precision to tunneling’s crawlIt measures your heartbeat, it guides your phone’s call,But ask what it &lt;em&gt;means&lt;/em&gt; and it hides in a wall.&lt;/p&gt;
+&lt;p&gt;Wave or a particle? “Yes,” it replies,While winking seductively right in your eyes.A cat in a box, both dead and alive,A bet on the odds, not on how to survive.&lt;/p&gt;
+&lt;p&gt;Its numbers are flawless, predictions sublime,It conquers the cosmos one function at a time.But if you demand what it &lt;em&gt;means&lt;/em&gt; underneath,It hands you equations, then grins through its teeth.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

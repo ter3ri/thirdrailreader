@@ -1,0 +1,10 @@
+---
+title: "The Gospel of Disengagement"
+date: 2025-08-26
+draft: false
+categories: ["essays"]
+tags: ["Politics", "AI"]
+summary: ""
+---
+
+In the beginning was the feed.And the feed was endless.And the feed demanded you make yourself visible, pliable, marketable. That you post, that you scroll, that you react, preferably with outrage, but sadness or fear will do in a pinch. The feed whispered, “Stay close.” It said, “If you’re not here, you don’t exist.” But the gospel of disengagement tells a different story.It begins with the silence after you close the tab. The feeling of your own breath returning. The sense that your thoughts are your own again, not sliced into slogans, not tagged and boosted and weaponized for engagement. Just yours.The gospel of disengagement says: Log out to log in. It says: You are not a brand. It reminds you that presence isn’t a performance, and that visibility is not the same as truth.It is not anti-connection. It is connection without the algorithm. It is the dinner table, the dog-eared book, the ink-stained journal. It is the moment of stillness when you realize that nothing in the feed has made you feel more real than the moss beneath your fingers.The gospel of disengagement is not about retreating from the world. It is about returning to it. It is not about burying your head in the sand, it is about lifting it from the screen.It says: Your attention is sacred. Spend it like breath. Choose where it falls.You do not have to amplify your life for it to be meaningful. You do not have to share your pain for it to be real. You do not have to be known by strangers to matter.The feed will tell you otherwise. It will promise a thousand eyes in exchange for your soul.But the gospel of disengagement offers something quieter, and older:• A full self.• A full breath.• A full life.And not a single notification.

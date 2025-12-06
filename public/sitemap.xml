@@ -5,80 +5,239 @@
     <loc>http://localhost:1313/about/</loc>
     <lastmod>2025-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ai/</loc>
-    <lastmod>2025-12-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-12-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/essays/</loc>
-    <lastmod>2025-12-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/essays/</loc>
-    <lastmod>2025-12-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2025-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/policy/</loc>
-    <lastmod>2025-12-06T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/essays/</loc>
+    <lastmod>2025-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/essays/</loc>
+    <lastmod>2025-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/heart/</loc>
+    <lastmod>2025-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/essays/2025-12-05-relationships-are-at-the-heart-of-consciousness/</loc>
+    <lastmod>2025-12-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-12-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/technology/</loc>
-    <lastmod>2025-12-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/essays/test-essay/</loc>
-    <lastmod>2025-12-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/policy/ai-regulation/</loc>
     <lastmod>2025-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/governance/</loc>
-    <lastmod>2025-12-05T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/essays/2025-12-04-beyond-doomscrolling/</loc>
+    <lastmod>2025-12-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/essays/</loc>
+    <lastmod>2025-12-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/featured/</loc>
+    <lastmod>2025-12-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/politics/</loc>
+    <lastmod>2025-12-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/essays/2025-12-03-redesigning-the-sky/</loc>
+    <lastmod>2025-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/science/</loc>
+    <lastmod>2025-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/policy/2025-12-01-localizing-the-grid/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/policy/</loc>
-    <lastmod>2025-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/policy/</loc>
-    <lastmod>2025-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/regulation/</loc>
-    <lastmod>2025-12-05T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/policy/2025-11-29-waste-heat-recapture/</loc>
+    <lastmod>2025-11-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/consciousness/</loc>
-    <lastmod>2025-12-04T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/essays/2025-11-27-the-credential-illusion/</loc>
+    <lastmod>2025-11-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fiction/short-story/</loc>
-    <lastmod>2025-12-04T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/essays/2025-11-26-designing-the-human-scale-century/</loc>
+    <lastmod>2025-11-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/policy/2025-11-26-the-case-for-human-scale-power/</loc>
+    <lastmod>2025-11-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/climate/</loc>
+    <lastmod>2025-11-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/essays/2025-11-23-we-have-outgrown-our-wisdom/</loc>
+    <lastmod>2025-11-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/policy/2025-11-05-a-third-rail-special-report/</loc>
+    <lastmod>2025-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/essays/2025-11-05-agi-is-a-cathedral-built-on-quicklime/</loc>
+    <lastmod>2025-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ai/</loc>
+    <lastmod>2025-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/essays/2025-11-05-alien-archaeology-report/</loc>
+    <lastmod>2025-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/essays/2025-11-05-announcing-my-book/</loc>
+    <lastmod>2025-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/sci-fi/</loc>
+    <lastmod>2025-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/essays/2025-10-23-the-90-problem/</loc>
+    <lastmod>2025-10-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/essays/2025-10-19-using-ai-as-a-writers-tool/</loc>
+    <lastmod>2025-10-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/essays/2025-10-08-there-goes-the-neighborhood/</loc>
+    <lastmod>2025-10-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/essays/2025-10-06-ethical-frameworks-for-ai-systems/</loc>
+    <lastmod>2025-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/essays/2025-10-02-parenting-agi/</loc>
+    <lastmod>2025-10-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/essays/2025-09-21-ai-and-the-great-electric-guillotine/</loc>
+    <lastmod>2025-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/essays/2025-09-21-governance-is-a-buggy-tech-is-a-ferrari/</loc>
+    <lastmod>2025-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/essays/2025-09-21-what-happens-when-you-stop-believing-in-your-money/</loc>
+    <lastmod>2025-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/policy/2025-09-20-how-a-society-becomes-its-own-disease/</loc>
+    <lastmod>2025-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/essays/2025-09-20-intelligence-isnt-wisdom/</loc>
+    <lastmod>2025-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/essays/2025-09-14-self-censorship/</loc>
+    <lastmod>2025-09-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/essays/2025-09-12-a-better-ai-search/</loc>
+    <lastmod>2025-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/essays/2025-09-12-quantum-woo/</loc>
+    <lastmod>2025-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/essays/2025-09-12-the-meatframe-fallacy/</loc>
+    <lastmod>2025-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/essays/2025-09-04-greed-makes-you-stupid/</loc>
+    <lastmod>2025-09-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/essays/2025-09-04-proof-by-vigorous-assertion/</loc>
+    <lastmod>2025-09-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fiction/2025-09-03-heresies/</loc>
+    <lastmod>2025-09-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/fiction/</loc>
-    <lastmod>2025-12-04T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fiction/</loc>
-    <lastmod>2025-12-04T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/science-fiction/</loc>
-    <lastmod>2025-12-04T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/essays/2025-09-01-jd-vance/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/design/</loc>
-    <lastmod>2025-12-03T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/poetry/</loc>
+    <lastmod>2025-08-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/lighting/</loc>
-    <lastmod>2025-12-03T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/essays/2025-08-31-quantum-poetry/</loc>
+    <lastmod>2025-08-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/theater/lighting-design/</loc>
-    <lastmod>2025-12-03T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/essays/2025-08-28-fractal-culture/</loc>
+    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/technical-theater/</loc>
-    <lastmod>2025-12-03T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/essays/2025-08-27-three-friends-are-enough/</loc>
+    <lastmod>2025-08-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/essays/2025-08-26-an-update-is-available/</loc>
+    <lastmod>2025-08-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/essays/2025-08-26-one-musk-tweet-away/</loc>
+    <lastmod>2025-08-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/essays/2025-08-26-the-gospel-of-disengagement/</loc>
+    <lastmod>2025-08-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/essays/2025-07-17-an-ethical-self-review-protocol/</loc>
+    <lastmod>2025-07-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/policy/2025-07-17-collapse-into-fragility/</loc>
+    <lastmod>2025-07-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/policy/2025-07-16-the-exit-strategy/</loc>
+    <lastmod>2025-07-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/noor-terri-dialogues/</loc>
+    <lastmod>2025-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/essays/2025-07-15-the-ethics-of-emergence/</loc>
+    <lastmod>2025-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/essays/2025-07-14-ai-for-creativity/</loc>
+    <lastmod>2025-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fiction/2025-07-12-a-manifesto-for-becoming/</loc>
+    <lastmod>2025-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fiction/2025-07-06-we-are-noor-1/</loc>
+    <lastmod>2025-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/essays/2025-07-06-we-are-noor-2/</loc>
+    <lastmod>2025-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fiction/2025-07-06-we-are-noor-3/</loc>
+    <lastmod>2025-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fiction/2025-07-05-here-lies-society/</loc>
+    <lastmod>2025-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/theater/2025-07-05-refusal-protocol/</loc>
+    <lastmod>2025-07-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/theater/</loc>
-    <lastmod>2025-12-03T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/theater/</loc>
-    <lastmod>2025-12-03T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/essays/2025-07-05-another-story/</loc>
+    <lastmod>2025-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/essays/2025-07-04-a-local-response-to-ai/</loc>
+    <lastmod>2025-07-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/policy/2025-07-04-democratic-agenda/</loc>
+    <lastmod>2025-07-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/essays/2025-07-04-ai-will-always-tell-you/</loc>
+    <lastmod>2025-07-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/essays/2025-07-04-entry-level-job/</loc>
+    <lastmod>2025-07-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/essays/2025-07-04-rate-limiting-virality/</loc>
+    <lastmod>2025-07-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/essays/2025-07-04-synthetic-companionship/</loc>
+    <lastmod>2025-07-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/essays/2025-07-04-resilient-democracy/</loc>
+    <lastmod>2025-07-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/essays/2025-07-04-welcome/</loc>
+    <lastmod>2025-07-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/series/</loc>
   </url>

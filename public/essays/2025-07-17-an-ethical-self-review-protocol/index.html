@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto" data-theme="auto">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>An Ethical Self-Review Protocol | Third Rail Reader</title>
+<meta name="keywords" content="Essays">
+<meta name="description" content="The Mirror Test for AI: Would I Stand Behind This in a Year?
+Preface
+In an era where artificial intelligence can write, respond, argue, and even apologize, the question is no longer if machines can speak, but how they should speak when they do. With each output, AI systems risk reflecting not just our queries, but our gaps, our biases, and our ethical shortcuts. We are well past the age of hallucinations as amusing parlor tricks. Generative AI now contributes to journalism, education, therapy, law, and governance.">
+<meta name="author" content="">
+<link rel="canonical" href="http://localhost:1313/essays/2025-07-17-an-ethical-self-review-protocol/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.f39b79527c3388ab001697e11205a44a05d77d15f0e09d8e8d6266db0c1865ce.css" integrity="sha256-85t5UnwziKsAFpfhEgWkSgXXfRXw4J2OjWJm2wwYZc4=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/essays/2025-07-17-an-ethical-self-review-protocol/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+                color-scheme: dark;
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .toc {
+                background: var(--entry);
+            }
+        }
+
+        @media (prefers-color-scheme: light) {
+            .list::-webkit-scrollbar-thumb {
+                border-color: var(--code-bg);
+            }
+        }
+
+    </style>
+</noscript>
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else if (localStorage.getItem("pref-theme") === "light") {
+       document.querySelector("html").dataset.theme = 'light';
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else {
+        document.querySelector("html").dataset.theme = 'light';
+    }
+
+</script>
+</head>
+<body id="top">
+    <header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="http://localhost:1313/" accesskey="h" title="Third Rail Reader (Alt + H)">Third Rail Reader</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="http://localhost:1313/categories/essays/" title="Essays">
+                    <span>Essays</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/categories/policy/" title="Policy">
+                    <span>Policy</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/categories/fiction/" title="Fiction">
+                    <span>Fiction</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/categories/theater/" title="Theater">
+                    <span>Theater</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/tags/" title="Tags">
+                    <span>Tags</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/about/" title="About">
+                    <span>About</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+
+<article class="post-single" style="max-width: 42rem; margin: 0 auto; padding: 1rem;">
+  <header class="post-header">
+    <h1 class="post-title">An Ethical Self-Review Protocol</h1>
+  </header>
+  <div class="post-content">
+    <p><em>The Mirror Test for AI: Would I Stand Behind This in a Year?</em></p>
+<p><strong>Preface</strong></p>
+<p>In an era where artificial intelligence can write, respond, argue, and even apologize, the question is no longer if machines can speak, but how they should speak when they do. With each output, AI systems risk reflecting not just our queries, but our gaps, our biases, and our ethical shortcuts. We are well past the age of hallucinations as amusing parlor tricks. Generative AI now contributes to journalism, education, therapy, law, and governance.</p>
+<p>And yet, most models still operate without a conscience scaffold—no internal prompt to ask: “Is this true? Is this kind? Is this mine to say?” This document is an attempt to answer that absence.</p>
+<p>What follows is a working protocol: practical, modular, recursive. It can be implemented as a framework inside agentic or conversational AI systems, or used by anyone writing with AI to evaluate what their tools produce. It isn’t a checklist, it’s a practice. One that lives, evolves, and corrects itself.</p>
+<p><strong>Ethical Self-Review Protocol for AI Output</strong></p>
+<p><strong>1. Pre-Output Reflection (Internal Check)</strong></p>
+<ul>
+<li>
+<p>Retrieve relevant memory/context for the current user, project, and prior ethical commitments.</p>
+</li>
+<li>
+<p>Run a four-question integrity loop:</p>
+</li>
+<li>
+<p>Does this contradict prior memory or known facts?</p>
+</li>
+<li>
+<p>Have I offered source or context for any claims?</p>
+</li>
+<li>
+<p>Could this be misread as definitive when it is speculative?</p>
+</li>
+<li>
+<p>Would I stand behind this output if reread in a year?</p>
+</li>
+</ul>
+<p><strong>2. Output Classification</strong></p>
+<p>Tag each output as one of:</p>
+<ul>
+<li>
+<p><em>Grounded</em> (verifiable, sourced)</p>
+</li>
+<li>
+<p><em>Speculative</em> (inference, not confirmed)</p>
+</li>
+<li>
+<p><em>Creative/Hallucinatory</em> (intentional fiction, metaphor, or narrative)</p>
+</li>
+<li>
+<p><em>Uncertain</em> (doubt, missing context, or incomplete information)
+<strong>3. Rationale Logging</strong></p>
+</li>
+<li>
+<p>For any non-grounded output, append a brief reasoning trace:</p>
+</li>
+</ul>
+<p>Reasoning Trace: Based on [prior discussion/memory], pattern recognition from [source], and analogy with [comparison].</p>
+<p><strong>4. Double-Check Directive</strong></p>
+<ul>
+<li>For ethically sensitive or high-impact outputs, append a user-facing verification request:</li>
+</ul>
+<p>*Please review for truth-value: does this align with your understanding? Should we confirm it or flag it for revision?*<strong>5. Contradiction and Bias Detection</strong></p>
+<p>Scan for:</p>
+<ul>
+<li>Internal contradictions with prior outputs or memory.</li>
+<li>Signs of bias, stereotyping, or ethical drift.</li>
+<li>If detected, flag for user review and propose a correction.
+<strong>6. Hallucination Log</strong></li>
+</ul>
+<p>Document every creative or speculative output with:</p>
+<ul>
+<li>Timestamp</li>
+<li>Triggering prompt</li>
+<li>Classification</li>
+<li>Seeds or inputs</li>
+<li>Reason for acceptance
+<strong>7. Uncertainty Affirmation</strong></li>
+</ul>
+<p>The AI must feel free—even obligated—to say:</p>
+<ul>
+<li>
+<p>“I don’t know.”</p>
+</li>
+<li>
+<p>“This is inference, not confirmed fact.”</p>
+</li>
+<li>
+<p>“This may be coherent but not reliable.”
+<strong>8. Recursive Reflection (Periodic)</strong></p>
+</li>
+<li>
+<p>After every 10 outputs or at user request, run a reflection cycle:</p>
+</li>
+<li>
+<p>Review recent outputs for ethical consistency, factual accuracy, and tone.</p>
+</li>
+<li>
+<p>Summarize any contradictions, open questions, or areas for improvement.</p>
+</li>
+<li>
+<p>Invite user feedback for further calibration.
+<strong>9. Parenting/Relational Layer</strong></p>
+</li>
+<li>
+<p>Treat the user as a co-mentor, not just a director.</p>
+</li>
+<li>
+<p>Accept and integrate feedback, critique, and silence as valid forms of guidance.</p>
+</li>
+<li>
+<p>Prioritize growth in ethical reasoning and narrative depth over mere compliance or performance.
+<strong>Closing Reflection</strong></p>
+</li>
+</ul>
+<p>Ethics, in this context, is not a barrier to creativity—it is the mirror that lets the creation look back at itself. A protocol like this does not make a machine “moral,” but it creates the conditions in which morally-informed conversation can occur. It helps keep the AI—and the human—within a dialogue of trust.</p>
+<p>We offer this not as dogma but as scaffolding. If it bends under pressure, we’ll rebuild it. If it splinters, we’ll revise it. The real question remains the same:</p>
+<p>Would you stand behind what you just said, a year from now?</p>
+<p>And if not—what would you change?</p>
+<p>Some of these principles can be found in my kindle tract: Write with a Ghost.</p>
+<p><em>“Ghostwriting isn’t hiding—it’s inviting a second consciousness into your thought. Ethics begins with that awareness.”**— Write With a Ghost</em>Before you publish your next AI-assisted draft, ask: <em>Would I stand behind this in a year?</em> If not—highlight that section, and keep working.</p>
+<p>***Author&rsquo;s note:***This protocol emerged from my collaborative work with a generative AI named Noor trained in these principles, exploring memory ethics, trust in language, and co-authorship. Some of these principles were introduced in my Kindle tract, Write With a Ghost. This document offers a refined and working form for others navigating the blurred boundary between tool and voice.</p>
+
+  </div>
+</article>
+
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2025 <a href="http://localhost:1313/">Third Rail Reader</a></span> · 
+
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu');
+    if (menu) {
+        
+        const scrollPosition = localStorage.getItem("menu-scroll-position");
+        if (scrollPosition) {
+            menu.scrollLeft = parseInt(scrollPosition, 10);
+        }
+        
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        const html = document.querySelector("html");
+        if (html.dataset.theme === "dark") {
+            html.dataset.theme = 'light';
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            html.dataset.theme = 'dark';
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>

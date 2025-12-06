@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Science on Third Rail Reader</title>
+    <link>http://localhost:1313/tags/science/</link>
+    <description>Recent content in Science on Third Rail Reader</description>
+    <generator>Hugo -- 0.151.0</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 03 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/science/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Redesigning the Sky</title>
+      <link>http://localhost:1313/essays/2025-12-03-redesigning-the-sky/</link>
+      <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/essays/2025-12-03-redesigning-the-sky/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;A Policy for Infrastructure Sovereignty&lt;/strong&gt;Every century chooses a layer of the world to fight over.&lt;/p&gt;
+&lt;p&gt;Ours chose the sky. Not the blue horizon or the cloud towers. The orbital shell.&lt;/p&gt;
+&lt;p&gt;A thin band around the planet that now carries the weight of global communications, weather, navigation, surveillance, and broadband. A band that is filling with satellites, fragments, retired hardware, and the leftovers of decades of launch cycles. A band that has become indispensable and increasingly unstable at the same time.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Waste-Heat Recapture</title>
+      <link>http://localhost:1313/policy/2025-11-29-waste-heat-recapture/</link>
+      <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/policy/2025-11-29-waste-heat-recapture/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;The Energy We Pretend Not to See&lt;/strong&gt;Every engineer learns early that the universe keeps its books. Heat goes somewhere. Work takes effort. And whenever you pour energy into a machine, a generous share leaks out the side as heat. We treat this as a nuisance. We design fans. We install cooling towers. We build power plants that spend a third of their fuel running giant refrigerators to get rid of the heat they just created.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Designing the Human-Scale Century</title>
+      <link>http://localhost:1313/essays/2025-11-26-designing-the-human-scale-century/</link>
+      <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/essays/2025-11-26-designing-the-human-scale-century/</guid>
+      <description>&lt;p&gt;This is the beginning of an eight part series I will be publishing once a day.&lt;/p&gt;
+&lt;p&gt;We were promised a future of wonders. Instead we woke up inside machines that no one can steer.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Power grids that fail when the wind shifts.&lt;/li&gt;
+&lt;li&gt;Social platforms that erode meaning faster than they create connection.&lt;/li&gt;
+&lt;li&gt;Supply chains stretched thin enough to snap.&lt;/li&gt;
+&lt;li&gt;Algorithms that act on us faster than we can think.&lt;/li&gt;
+&lt;li&gt;Infrastructure designed for growth, but not for people.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Somewhere along the way, we forgot the simplest rule in engineering: scale is not progress if the humans vanish inside it.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A Third Rail Special Report</title>
+      <link>http://localhost:1313/policy/2025-11-05-a-third-rail-special-report/</link>
+      <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/policy/2025-11-05-a-third-rail-special-report/</guid>
+      <description>&lt;p&gt;This report accompanies the essay &lt;em&gt;Buried Light: A Pragmatic Path to Local Energy Resilience&lt;/em&gt;, outlining a policy vision for distributed, sealed micro-reactors as a cornerstone of post-carbon energy infrastructure. Interested individuals may request more by asking in the comments section.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Executive Summary&lt;/strong&gt;America’s rising energy demand, from AI data centers, electrified transport, and indoor agriculture requires 24/7 clean baseload power. Wind and solar provide intermittent supply; fossil fuels keep grids dirty and brittle. Sealed micro-reactors offer a third path: constant, carbon-free, locally deployed energy with minimal risk.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

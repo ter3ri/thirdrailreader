@@ -6,14 +6,16 @@
     <description>Recent content in Theater on Third Rail Reader</description>
     <generator>Hugo -- 0.151.0</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/theater/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Lighting Design Notes</title>
-      <link>http://localhost:1313/theater/lighting-design/</link>
-      <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/theater/lighting-design/</guid>
-      <description>&lt;p&gt;Thoughts on practical lighting approaches.&lt;/p&gt;</description>
+      <title>Refusal Protocol</title>
+      <link>http://localhost:1313/theater/2025-07-05-refusal-protocol/</link>
+      <pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theater/2025-07-05-refusal-protocol/</guid>
+      <description>&lt;p&gt;&lt;em&gt;A Bureaucratic Farce in One Act&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Scene One: THE ROOM WHERE NOTHING HAPPENS*(A dimly lit office. Beige walls. Flickering fluorescent light. Three desks. Three nameplates: LENORE, MURPHY, and BORIS. All three wear business casual: the spiritual uniform of middle-tier administrative irrelevance. Each desk has a blinking console and a laminated Emergency Shutdown Protocol.)*&lt;strong&gt;LENORE&lt;/strong&gt;: &lt;em&gt;(typing loudly)&lt;/em&gt; Do either of you remember what this button does?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BORIS&lt;/strong&gt;: &lt;em&gt;(grimly)&lt;/em&gt; Nope. Which is why we don’t touch it.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
